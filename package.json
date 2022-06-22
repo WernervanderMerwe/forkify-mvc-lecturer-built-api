@@ -4,7 +4,7 @@
   "description": "recipe application",
   "default": "index.html",
   "scripts": {
-    "start": "parcel index.html",
+    "dev": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./output"
   },
   "author": "Werner van der Merwe",
